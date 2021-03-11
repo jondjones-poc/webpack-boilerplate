@@ -1,4 +1,4 @@
-# Boilerplate WEbpack Project
+# Boilerplate Webpack Project
 
 Clone this to get started with a vanilla webpack based project
 
